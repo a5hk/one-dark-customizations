@@ -32,6 +32,7 @@
     "menu.foreground": "#aaa",
     "minimap.selectionHighlight": "#060",
     "panel.border": "#080800",
+    "progressBar.background": "#ffd700",
     "scrollbar.shadow": "#00000000",
     "sideBar.background": "#080800",
     "sideBarSectionHeader.background": "#111",
