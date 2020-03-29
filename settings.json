@@ -20,6 +20,7 @@
     "editorSuggestWidget.foreground": "#ccc",
     "editorSuggestWidget.highlightForeground": "#eee",
     "editorSuggestWidget.selectedBackground": "#555",
+    "editorWhitespace.foreground": "#666",
     "editorWidget.background": "#000",
     "editorWidget.border": "#080800",
     "editorWidget.resizeBorder": "#060",
