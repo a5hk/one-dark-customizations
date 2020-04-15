@@ -55,13 +55,15 @@
     "tab.activeBackground": "#222",
     "tab.activeModifiedBorder": "#553C9A",
     "tab.border": "#080800",
+    "tab.hoverBackground": "#333",
+    "tab.hoverBorder": "#53ac53",
     "tab.inactiveBackground": "#080800",
     "tab.inactiveModifiedBorder": "#9B2C2C",
     "titleBar.activeBackground": "#080800",
     "titleBar.activeForeground": "#aaa",
     "titleBar.inactiveBackground": "#080800",
     "titleBar.inactiveForeground": "#999",
-    "widget.shadow": "#00000000",
+    "widget.shadow": "#00000000"
   },
   "editor.tokenColorCustomizations": {
     "comments": "#444"
